@@ -1,10 +1,10 @@
-# 🐚 Unix Utilities & Shells in C
+# Linux Utilities & Shells in C
 
-A collection of low-level Unix utilities and progressively featured command-line shells written in C. This project explores Unix internals, system calls, and process management from the ground up.
+A collection of low-level Linux utilities and progressively featured command-line shells written in C. This project explores Unix internals, system calls, and process management from the ground up.
 
 ---
 
-## 📦 Project Components
+## Project Components
 
 ### 1. Basic Utilities
 
@@ -70,7 +70,7 @@ The most complete shell in the series. Builds on NanoShell with full I/O redirec
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 This project was built to develop hands-on familiarity with:
 
@@ -84,7 +84,7 @@ This project was built to develop hands-on familiarity with:
 
 ---
 
-## ⚙️ How to Compile & Run
+## How to Compile & Run
 
 Each component has its own source file. Compile and run any utility with:
 
